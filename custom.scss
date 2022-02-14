@@ -1,0 +1,82 @@
+/* reset margin, padding */
+body {
+    margin: 0 !important;
+}
+.red {
+    border: 1px solid red;
+}
+.green { 
+    border: 1px solid green;
+    margin-right: 200px;
+}
+.banner{
+ border: 1px solid red;
+   height: 800px;
+   
+    background: url(./sun.jpg) center center no-repeat;
+    overflow: hidden;
+    padding: 20px; 
+  
+    .about-sign-in {
+        width: 300px;
+     margin-left: auto;      
+
+     .about, .sign-in {
+
+        text-transform: uppercase;
+        border-radius: 20px;
+        margin-top: 30px;
+        display: inline-block;
+        padding: 5px 10px;
+        margin-left: 5px;
+    
+        margin-right: 60px;
+        border: 3px solid green;}
+     }
+    .star-now1 button{
+        text-transform: uppercase;
+        padding: 7px 10px;
+        border-radius: 20;
+        border: 1px solid red;
+        border-radius: 20px;
+        display: inline;
+        width: 150px;
+        margin-left: 670px;
+    }
+    }
+
+  .logo { 
+    background: url(./fb.png) center center no-repeat;
+    height: 200px;
+   
+
+
+
+
+.banner .text1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+
+
+
+
+.left, .center, .right {
+    width: 10%;
+    display: inline-block;
+    margin-left: 275px;
+}
+span {
+    display: block;
+    font-size: 25px;
+}
+img{
+    width: 50px;
+}
+.center span {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+  }
